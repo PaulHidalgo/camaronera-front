@@ -1,5 +1,7 @@
 # Jobsity Camaronera
 
-# run
-npm install
-ng serve
+### RUN
+```sh
+$ npm install
+$ ng serve
+```
