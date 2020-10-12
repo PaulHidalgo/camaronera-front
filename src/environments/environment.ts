@@ -4,8 +4,8 @@
 
 export const environment = {
   production: false,
-  url: 'https://camaronera-jobsity.herokuapp.com'
-  //url: 'http://localhost:3000'
+  //url: 'https://camaronera-jobsity.herokuapp.com'
+  url: 'http://localhost:3000'
 };
 
 /*
